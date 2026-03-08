@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=200&section=header&text=Jhalak's%20Engineering%20Lab&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:00F7FF&height=220&section=header&text=Jhalak%20|%20Digital%20Systems%20Lab&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Developer%20•%20ECE%20Student%20•%20GenAI%20Explorer&descAlignY=55&descAlign=50"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Jhalak</h1>
 <h3 align="center">MERN Stack Developer | BTech ECE @ MNNIT Allahabad</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=MERN+Stack+Developer;Backend+Developer;Generative+AI+Learner;Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Electronics+%26+Communication+Engineering+Student;Backend+Systems+%7C+Node+%26+Express;Generative+AI+Explorer;Open+Source+Enthusiast"/>
 </p>
 
 <p align="center">
