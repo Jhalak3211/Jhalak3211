@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:00F7FF&height=220&section=header&text=Jhalak%20|%20Digital%20Systems%20Lab&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Developer%20•%20ECE%20Student%20•%20GenAI%20Explorer&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=200&section=header&text=Jhalak%20%7C%20Code%20%E2%80%A2%20Circuits%20%E2%80%A2%20Creativity&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Jhalak</h1>
 <h3 align="center">MERN Stack Developer | BTech ECE @ MNNIT Allahabad</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Electronics+%26+Communication+Engineering+Student;Backend+Systems+%7C+Node+%26+Express;Generative+AI+Explorer;Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;ECE+Student+%40+MNNIT+Allahabad;Backend+Developer+%7C+Node.js+%26+Express;Generative+AI+Learner;Building+Scalable+Web+Applications"/>
 </p>
 
 <p align="center">
@@ -32,11 +32,11 @@
 - 🌱 Currently exploring **Generative AI & Backend Systems**
 - 🎨 Interested in **Graphic Design**
 - 🚀 Building **Full Stack Web Applications**
-- ⚡ Curious learner who enjoys **traveling and exploring food places**
+- ⚡ Curious learner 
 
 ---
 
-# 🔧 Hardware & Software Stack
+# 🔧Software Stack
 
 ### Languages
 <p>
@@ -68,9 +68,11 @@
 # 🚀 Active Experiments
 
 ### 🔹 Coaching Center Website
+
 Full-stack MERN platform for managing courses, students, and authentication.
 
 **Tech Stack**
+
 - MongoDB  
 - Express  
 - React  
@@ -98,17 +100,6 @@ Full-stack MERN platform for managing courses, students, and authentication.
 
 ---
 
-# 📊 Performance Metrics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhalak3211&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhalak3211&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -118,23 +109,20 @@ Full-stack MERN platform for managing courses, students, and authentication.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jhalak3211&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
 
 ---
 
 # 📈 Contribution Graph
 
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhalak3211&theme=tokyo-night"/>
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Jhalak3211/Jhalak3211/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/Jhalak3211/Jhalak3211/output/github-contribution-grid-snake.svg)
 
 ---
 
