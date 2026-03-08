@@ -132,7 +132,7 @@ Full-stack MERN platform for managing courses, students, and authentication.
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Jhalak3211/Jhalak3211/blob/output/github-contribution-grid-snake.svg)
 
